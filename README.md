@@ -1,2 +1,2 @@
-# -Thor-love-thunder-
+Thor-love-thunder-
 Landing page para cinema
