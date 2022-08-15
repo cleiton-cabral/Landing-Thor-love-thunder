@@ -1,2 +1,2 @@
 Thor-love-thunder-
-Landing page para cinema
+Landing page para venda ingressos
